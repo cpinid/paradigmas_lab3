@@ -1,0 +1,10 @@
+plugins {
+    id 'application'
+}
+
+group = 'dev.cpini'
+version = '1.0-SNAPSHOT'
+
+application {
+    mainClass = 'dev.cpini.paradigmas_lab3.Main'
+}
